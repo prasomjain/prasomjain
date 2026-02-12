@@ -81,9 +81,9 @@ Production mindset
 ---
 
 ## Open
-Early stage startups  
-Backend roles  
-AI engineering roles  
+Open to teams where I can learn build and grow  
+Startup or product teams with strong engineering culture  
+Backend and AI engineering roles  
 
 Contact  
 prasomwork@gmail.com
