@@ -41,12 +41,12 @@ Performance and reliability
 
 **Languages**  
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,python,ts,js,sql"/>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,ts,js,sql"/>
 </p>
 
 **Backend and Cloud**  
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,docker,aws,linux,postgres,redis,mongodb"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring,docker,aws,linux,postgres,redis,mongodb"/>
 </p>
 
 **Frontend**  
