@@ -5,7 +5,7 @@
 <h3 align="center">Engineer focused on scalable systems and useful AI</h3>
 
 <p align="center">
-  <a href="https://portfoliopj4.vercel.app/">
+  <a href="https://prasomjain.github.io/portfoliopj2/">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/prasom-jain-751682229/">
